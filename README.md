@@ -130,5 +130,3 @@ The game includes **4 different lighting systems**, helping set the mood:
 - You may need admin rights depending on your system.
 
 ---
-
-Enjoy... if you dare to escape. 🕯️🚪👁️
